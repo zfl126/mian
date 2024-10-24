@@ -23,26 +23,6 @@
 * [React快速上手开发完整版](Front_End/React/React快速上手开发完整版.pdf)
 * [Vue.js前端开发 快速入门与专业应用](Front_End/Vue/Vue.js前端开发 快速入门与专业应用.pdf)
 
-### 玄学 (Inner Alchemy)
-
-* [《大洞法录》01](Inner alchemy/《大洞法录》01.pdf)
-* [《大洞法录》02](Inner alchemy/《大洞法录》02.pdf)
-* [仙道正传](Inner alchemy/仙道正传.pdf)
-* [伍柳法脉](Inner alchemy/伍柳法脉.pdf)
-* [先天派诀](Inner alchemy/先天派诀.pdf)
-* [入地眼全书](Inner alchemy/入地眼全书.pdf)
-* [全真秘要](Inner alchemy/全真秘要.pdf)
-* [内炼密诀](Inner alchemy/内炼密诀.pdf)
-* [列仙傳校箋](Inner alchemy/列仙傳校箋 王叔岷撰 中華書局2007.pdf)
-* [历史上的炼丹术](Inner alchemy/历史上的炼丹术.pdf)
-* [天元丹法](Inner alchemy/天元丹法.pdf)
-* [太极道诀](Inner alchemy/太极道诀.pdf)
-* [悟道真机](Inner alchemy/悟道真机.pdf)
-* [涵虚秘旨](Inner alchemy/涵虚秘旨.pdf)
-* [禅定指南](Inner alchemy/禅定指南.pdf)
-* [西游真诠](Inner alchemy/西游真诠.100回.清陈士斌诠解.翠筠山房藏版.清康熙年间刊本.pdf)
-* [道教大辞典（李叔还）](Inner alchemy/道教大辞典（李叔还）.pdf)
-* [金丹集成](Inner alchemy/金丹集成.pdf)
 
 ### 机器学习(Machine learning)
 
